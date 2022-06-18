@@ -323,6 +323,7 @@ a{
 }
 
 .about-title{
+    padding-top: 100px;
     margin-bottom: 45px;
 
     font-family: 'DM Serif Display';
@@ -382,3 +383,18 @@ a{
     padding: 0 65px 0 40px;
     font-size: 20px;
 }
+
+/* =======================CLIENTS========================= */
+
+.clients-list{
+    display: flex;
+    align-items: center;
+    padding-top: 140px;
+    padding-bottom: 100px;
+}
+
+.clients-item{
+    margin-left: 100px;
+}
+
+
